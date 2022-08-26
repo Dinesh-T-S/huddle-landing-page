@@ -1,0 +1,43 @@
+head{
+    font-family: 'Poppins', sans-serif;
+  }
+body{
+  background-color:#674baf;
+  font-family: 'Open Sans', sans-serif;
+}
+.logo{
+  width: 15%;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.text{
+  text-align:left;
+  margin: 10% 10% 30px 60%;
+  color: white;
+}
+.mockup{
+  margin:-25% 5% 10% 5%;
+}
+.register{
+  margin: 40px auto 60px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #af00fa;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: white;
+  background: #ff8aff;
+  text-decoration: none;
+}
+.fb{
+  margin:-15% 30% 10% 90%;
+}
